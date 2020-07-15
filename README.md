@@ -4,6 +4,6 @@
 2. `python main.py`
 
 ## Screenshoots:
-1. [Main page]()
-2. [New/edit note]()
-3. [Open note]()
+|main page|new/edit page|open note page|
+|---------|-------------|--------------|
+|![Main page](main.png)|![New/edit note](edit.png)|![Open note](open.png)|
