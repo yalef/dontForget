@@ -6,4 +6,4 @@
 ## Screenshoots:
 |main page|new/edit page|open note page|
 |---------|-------------|--------------|
-|![Main page](main.png)|![New/edit note](edit.png)|![Open note](open.png)|
+|![Main page](pics/main.png)|![New/edit note](pics/edit.png)|![Open note](pics/open.png)|
