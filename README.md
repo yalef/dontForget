@@ -2,7 +2,7 @@
 ## How to launch:
 1. `pip install requirements.txt`
 2. `python main.py`
-
+3. open `localhost:1111`
 ## Screenshoots:
 |main page|new/edit page|open note page|
 |---------|-------------|--------------|
